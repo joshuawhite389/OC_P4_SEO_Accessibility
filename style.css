@@ -702,6 +702,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 h2 {
@@ -1069,4 +1071,21 @@ li::marker {
 
 .atomic-color {
     color: #F3976C!important;
+}
+
+ul {
+    padding: 0;
+}
+
+.footer-headings {
+    color: rgba(255, 255, 255, .6)!important;
+    font-size: 1.5rem;
+}
+
+address {
+    color: black;
+}
+
+.form-group label {
+    color: black!important;
 }
